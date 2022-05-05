@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/leaflet-react-functional-component/static/css/main.bf5e3829.chunk.css",
+    "main.js": "/leaflet-react-functional-component/static/js/main.72a71001.chunk.js",
+    "main.js.map": "/leaflet-react-functional-component/static/js/main.72a71001.chunk.js.map",
+    "runtime-main.js": "/leaflet-react-functional-component/static/js/runtime-main.912c31d1.js",
+    "runtime-main.js.map": "/leaflet-react-functional-component/static/js/runtime-main.912c31d1.js.map",
+    "static/css/2.c85947c3.chunk.css": "/leaflet-react-functional-component/static/css/2.c85947c3.chunk.css",
+    "static/js/2.30b32cec.chunk.js": "/leaflet-react-functional-component/static/js/2.30b32cec.chunk.js",
+    "static/js/2.30b32cec.chunk.js.map": "/leaflet-react-functional-component/static/js/2.30b32cec.chunk.js.map",
+    "index.html": "/leaflet-react-functional-component/index.html",
+    "static/css/2.c85947c3.chunk.css.map": "/leaflet-react-functional-component/static/css/2.c85947c3.chunk.css.map",
+    "static/css/main.bf5e3829.chunk.css.map": "/leaflet-react-functional-component/static/css/main.bf5e3829.chunk.css.map",
+    "static/js/2.30b32cec.chunk.js.LICENSE.txt": "/leaflet-react-functional-component/static/js/2.30b32cec.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.912c31d1.js",
+    "static/css/2.c85947c3.chunk.css",
+    "static/js/2.30b32cec.chunk.js",
+    "static/css/main.bf5e3829.chunk.css",
+    "static/js/main.72a71001.chunk.js"
+  ]
+}
