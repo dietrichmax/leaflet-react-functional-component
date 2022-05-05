@@ -22,7 +22,7 @@ const Map = () => {
     // similar to componentDidMount() lifecycle method of class-based
     // components:
     useEffect(() => {
-      const map = L.map("map", mapParams);
+        L.map("map", mapParams);
     }, []);
   
     return (
